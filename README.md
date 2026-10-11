@@ -4,7 +4,7 @@
   <p><strong>Hear the fretboard. Explore the harmony. See the commas.</strong></p>
   <p>A focused guitar theory studio for chords, scales, harmony, and Turkish makam.</p>
   <p>
-    <a href="https://guitar.thespacebug.chatgpt.site/"><strong>▶ Open the live studio</strong></a>
+    <a href="https://knookan.github.io/guitar-brain-koma/"><strong>▶ Open the live studio</strong></a>
     &nbsp;·&nbsp;
     <a href="#getting-started">Run it locally</a>
     &nbsp;·&nbsp;
